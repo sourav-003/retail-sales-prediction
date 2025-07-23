@@ -40,8 +40,6 @@ The dataset includes columns like:
 - `Date`
 - `Category`
 
-> 🔍 *(Replace or add a data source if applicable, e.g., Kaggle or internal system)*
-
 ## 🛠️ Tech Stack
 
 - Python
